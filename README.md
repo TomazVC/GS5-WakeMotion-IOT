@@ -20,7 +20,7 @@ WakeMotion é uma solução desenvolvida em Python com MediaPipe que detecta, em
 ---
 
 ## 🎥 Demonstração (vídeo até 3 minutos)
-[🔗 Link para o vídeo demonstrativo no YouTube (inserir link aqui)](#)
+[🔗 Link para o vídeo demonstrativo no YouTube ([WakeMotion](https://youtu.be/cJCcK3jxi7Q))]
 
 No vídeo, é possível ver:
 - A explicação do problema
