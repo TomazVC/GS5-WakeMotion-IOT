@@ -6,6 +6,10 @@ Durante quedas de energia, é comum que profissionais de plantão, vigias ou pes
 ## 💡 Solução Proposta
 WakeMotion é uma solução desenvolvida em Python com MediaPipe que detecta, em vídeos simulando ambientes de baixa iluminação, se uma pessoa passa do estado de repouso (deitada) para o estado acordado (sentado ou em pé). A detecção é feita com base na diferença vertical entre os pontos do **nariz** e do **quadril**, utilizando visão computacional para interpretar essa mudança postural como "acordar repentino".
 
+![image](https://github.com/user-attachments/assets/abd7c7dc-e074-4df7-a93e-523970d74372)
+![image](https://github.com/user-attachments/assets/83d4b1d1-28fd-4364-90cc-6cacda335d64)
+![image](https://github.com/user-attachments/assets/012ccb55-0f38-4815-add0-1d1cfea2206f)
+
 ---
 
 ## 🧪 Tecnologias Utilizadas
