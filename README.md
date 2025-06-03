@@ -1,4 +1,4 @@
-# 💤 WakeMotion – Detector de Acordar Repentino
+# WakeMotion – Detector de Acordar Repentino
 
 ## 🎯 Descrição do Problema
 Durante quedas de energia, é comum que profissionais de plantão, vigias ou pessoas em abrigos acabem cochilando. Caso haja uma emergência, movimentos bruscos de acordar podem ser um indício de alerta, susto ou reação instintiva. Em ambientes escuros ou silenciosos, essa informação pode ser útil para acionar sistemas auxiliares ou registrar o comportamento do ocupante.
